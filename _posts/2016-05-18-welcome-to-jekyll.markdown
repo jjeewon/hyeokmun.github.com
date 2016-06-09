@@ -4,22 +4,32 @@ title:  "Welcome to Jekyll!"
 date:   2016-05-18 19:10:23 +0900
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+### 문제 관련 기존의 방법/제품/서비스/시스템 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<유사제품>  
+1. 차량용 핸드폰 거치대   
+● 동일한 문제 : 제품을 사용하면서 또는 고온다습한 환경으로 인해 심해진 악취  
+● 서비스 : 제품에 방향제 기능을 더하여 악취문제 해결  
+● 시스템 : 기존 핸드폰 거치대기능에 '방향제' 기능 첨가   
+2. 알아서 추천해 주는 스마트 자판기  
+● 동일한 문제 : 외부 환경과 꼭 맞는 제품(음료)를 고르기가 애매    
+● 서비스 : 자판기의 센서가 성별과 나이를 인식, 날씨와 시각까지 고려하여 소비자가 가장 선호할 만한 음료 몇 가지를 추천  
+● 시스템 : 기존 자판기 기능에 '추천' 기능 첨가     
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+_________________________________________________________
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### 제안한 아이디어의 기존제품과의 차별성 & 장점  
+1. 차량용 핸드폰 거치대   
+● 기존 제품과의 차별성 및 장점 : 이 제품은 방향제기능을 사용하기 위해 수동적으로 스위치를 작동시켜야 하지만, 우리가 제안하고자 하는 제품은 신발장에 iot 기능을 부여하여 모든 시스템이 자동적으로 실행된다.  
+
+2.스마트 냉장고
+이미지 참고  
+
+
+2. 알아서 추천해 주는 [스마트 자판기][1]   
+● 기존 제품과의 차별성 및 장점 : 이 제품은 추천기능을 사용하기 위해 소비자가 제품 앞에 서야하지만, 우리가 제안하고자 하는 제품은 신발장에 iot 기능을 첨가하여 사용자가 방 안에 있더라도 신발장의 추천정보를 받아볼 수 있다.  
+
+
+[1]: http://igonayou.blog.me/117738427
